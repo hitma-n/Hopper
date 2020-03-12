@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Object
+  - collector
+  - Gotobuttons
+  - Ground
+  - PlayGame
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Object
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3307375271
+    locked: 0
+  - name: innerlop
+    uniqueID: 1337300479
+    locked: 0
+  - name: Spikes
+    uniqueID: 205716751
+    locked: 0
+  - name: Ball
+    uniqueID: 2009951089
+    locked: 0
+  - name: Ground
+    uniqueID: 467695445
+    locked: 0
+  - name: UI
+    uniqueID: 1402561149
+    locked: 0
